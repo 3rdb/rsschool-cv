@@ -1,1 +1,1 @@
-https://3rdb.github.io/rsschool-cv/cv
+https://3rdb.github.io/rsschool-cv
